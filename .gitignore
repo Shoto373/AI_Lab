@@ -27,11 +27,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Data
-*.csv
-*.xlsx
-!data/*.csv
-
 # Models
 *.h5
 *.pkl
